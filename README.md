@@ -19,3 +19,4 @@ Tutorial for September 19, 2019 meetup on how to create a website with GitHub Pa
 ```
 
 ## Everyone's Repositories
+https://reycastillo.github.io/map-website/qgis2web/
